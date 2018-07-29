@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Racing _Game", "Assembly-CSharp.csproj", "{748C8B71-07E8-C770-9E81-1CF0A2317318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Racing _Game", "Assembly-CSharp-Editor.csproj", "{9FB7350D-4D0E-2EAA-A912-7F8A07B41265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748C8B71-07E8-C770-9E81-1CF0A2317318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748C8B71-07E8-C770-9E81-1CF0A2317318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748C8B71-07E8-C770-9E81-1CF0A2317318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748C8B71-07E8-C770-9E81-1CF0A2317318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB7350D-4D0E-2EAA-A912-7F8A07B41265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB7350D-4D0E-2EAA-A912-7F8A07B41265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB7350D-4D0E-2EAA-A912-7F8A07B41265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB7350D-4D0E-2EAA-A912-7F8A07B41265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
